@@ -33,6 +33,7 @@ export default function App() {
       
     }
   };
+  
   const screenWidth = Dimensions.get('window').width;
   const screenHeight = Dimensions.get('window').height;
   const cardWidth = 5; // in cm
